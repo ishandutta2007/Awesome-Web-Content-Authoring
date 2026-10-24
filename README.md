@@ -25,6 +25,7 @@ Whether you require an **instant SQL admin panel**, a **TypeScript-native CMS em
   - [Open-Source Comparison Matrix](#open-source-comparison-matrix)
 - [🧭 Decision Matrix: Choosing Your Content Stack](#-decision-matrix-choosing-your-content-stack)
 - [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Licensing Notes](#️-disclaimer--licensing-notes)
 
@@ -201,6 +202,25 @@ Explore the leading self-hosted, database-backed, and Git-backed open-source con
 ## ⭐ Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Web-Content-Authoring&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Web-Content-Authoring&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting the **Awesome Web Content Authoring** initiative! Maintaining and continually updating this curated directory takes time, research, and dedication.
+
+If you found this resource helpful for choosing your content management stack, exploring modern headless CMS options, or discovering Git-backed open-source engines, please consider supporting the project:
+
+- ⭐ **Star the Repository:** Help other developers and digital creators discover this list.
+- 🍴 **Fork & Contribute:** Keep the catalog accurate, up-to-date, and comprehensive.
+- 📢 **Share with Peers:** Spread the word across your engineering teams, digital agencies, and tech communities.
+- ☕ **Buy Me a Coffee / Sponsor:** You can directly sponsor ongoing research and project maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
