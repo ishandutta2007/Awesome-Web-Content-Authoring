@@ -62,89 +62,89 @@ The following table summarizes the market leaders in hosted and SaaS web content
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading self-hosted, database-backed, and Git-backed open-source content authoring solutions. Sorted **descending by GitHub star count**.
+Explore the leading self-hosted, database-backed, and Git-backed open-source content authoring solutions. Sorted **descending by GitHub Stars_Count**.
 
 ### Open-Source Project Details
 
-1. ### [**Strapi**](https://github.com/strapi/strapi) [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)
+1. ### [**Strapi**](https://github.com/strapi/strapi) [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)
    - **Architecture:** Node.js TypeScript/JavaScript Headless CMS.
    - **Database Support:** PostgreSQL, MySQL, MariaDB, SQLite.
    - **License:** MIT License (Community Edition).
    - **Key Highlights:** The most widely adopted open-source headless CMS in the ecosystem. Offers a graphical Content-Type Builder, fine-grained Role-Based Access Control (RBAC), an expansive plugin marketplace with 100+ extensions, and dual REST & GraphQL APIs. Best suited for greenfield projects seeking community maturity.
 
-2. ### [**Ghost**](https://github.com/TryGhost/Ghost) [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)
+2. ### [**Ghost**](https://github.com/TryGhost/Ghost) [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)
    - **Architecture:** Node.js Web Publishing & Content Management System.
    - **Database Support:** MySQL 8, SQLite3.
    - **License:** AGPL-3.0 License.
    - **Key Highlights:** Leading open-source publishing platform built specifically for professional content creators, journalists, newsletters, and publication media. Features a distraction-free Koenig card-based rich-text editor, native email newsletters, member subscriptions, and clean REST APIs.
 
-3. ### [**Payload**](https://github.com/payloadcms/payload) [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)
+3. ### [**Payload**](https://github.com/payloadcms/payload) [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)
    - **Architecture:** TypeScript-Native Full-Stack CMS embedded in Next.js.
    - **Database Support:** PostgreSQL & SQLite (via Drizzle ORM), MongoDB (via Mongoose).
    - **License:** MIT License.
    - **Key Highlights:** Code-as-configuration architecture where schemas are defined in type-safe TypeScript files. Drops directly into the Next.js `/app` router, offering zero-network-hop Local API queries inside React Server Components alongside REST and GraphQL endpoints.
 
-4. ### [**Directus**](https://github.com/directus/directus) [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
+4. ### [**Directus**](https://github.com/directus/directus) [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
    - **Architecture:** Database-First Admin Panel and Data Platform.
    - **Database Support:** Connects directly to existing PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, and MS SQL Server.
    - **License:** Business Source License (BSL 1.1 / Source-Available; free for teams <$5M revenue).
    - **Key Highlights:** Wraps your existing database without enforcing proprietary migrations or data locks. Delivers an immediate polished admin panel, field-level permissions, WebSocket subscriptions, REST/GraphQL APIs, and a native Model Context Protocol (MCP) server for AI agent integrations.
 
-5. ### [**Wagtail**](https://github.com/wagtail/wagtail) [![GitHub stars](https://img.shields.io/github/stars/wagtail/wagtail?style=social&color=white)](https://github.com/wagtail/wagtail/stargazers)
+5. ### [**Wagtail**](https://github.com/wagtail/wagtail) [![GitHub_Stars](https://img.shields.io/github/stars/wagtail/wagtail?style=social&color=white)](https://github.com/wagtail/wagtail/stargazers)
    - **Architecture:** Python & Django Enterprise Content Management System.
    - **Database Support:** PostgreSQL, MySQL, SQLite, Oracle (via Django ORM).
    - **License:** BSD-3-Clause License.
    - **Key Highlights:** Enterprise-grade CMS renowned for its intuitive StreamField block-based editor, robust editorial governance, multi-site handling, accessibility compliance, and headless REST/GraphQL integration. Trusted by NASA, Google, and the UK NHS.
 
-6. ### [**Decap CMS**](https://github.com/decaporg/decap-cms) *(formerly Netlify CMS)* [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)
+6. ### [**Decap CMS**](https://github.com/decaporg/decap-cms) *(formerly Netlify CMS)* [![GitHub_Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)
    - **Architecture:** Single-page React application for Git-based workflows.
    - **Storage Backend:** Git repository (GitHub, GitLab, Bitbucket, Gitea).
    - **License:** MIT License.
    - **Key Highlights:** The foundational Git-backed headless CMS. Delivers a clean editorial UI that commits Markdown, JSON, YAML, or TOML files directly to your Git repository, triggering automated CI/CD static site builds across Astro, Hugo, Jekyll, or Gatsby.
 
-7. ### [**Grav CMS**](https://github.com/getgrav/grav) [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)
+7. ### [**Grav CMS**](https://github.com/getgrav/grav) [![GitHub_Stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)
    - **Architecture:** Fast, Lightweight Flat-File CMS in PHP.
    - **Storage Backend:** Flat files on disk (Markdown and YAML frontmatter, no SQL database required).
    - **License:** MIT License.
    - **Key Highlights:** Ultra-fast flat-file web authoring platform powered by Twig templating and sophisticated file-system caching. Features an optional graphical admin plugin, comprehensive CLI tools, and over 100 plug-and-play themes and extensions.
 
-8. ### [**TinaCMS**](https://github.com/tinacms/tinacms) [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)
+8. ### [**TinaCMS**](https://github.com/tinacms/tinacms) [![GitHub_Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)
    - **Architecture:** Git-backed Markdown CMS with Real-Time Contextual Editing.
    - **Storage Backend:** GitHub repository (Markdown, MDX, JSON, YAML) + GraphQL indexing.
    - **License:** Apache-2.0 License.
    - **Key Highlights:** Delivers contextual live-preview editing for Jamstack frameworks (Next.js, Astro, Hugo, Eleventy). Editors click directly on page components to modify copy and media, while Tina automatically pushes Git commits behind the scenes.
 
-9. ### [**Sveltia CMS**](https://github.com/sveltia/sveltia-cms) [![GitHub stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers)
+9. ### [**Sveltia CMS**](https://github.com/sveltia/sveltia-cms) [![GitHub_Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers)
    - **Architecture:** Lightweight Svelte-based SPA successor to Netlify/Decap CMS.
    - **Storage Backend:** Git repository (GitHub, GitLab, Gitea).
    - **License:** MIT License.
    - **Key Highlights:** Modern drop-in replacement for Netlify/Decap CMS written in Svelte. Served entirely as a single static HTML file from a CDN. Resolves hundreds of legacy Netlify CMS bugs, accelerates authoring performance, and provides first-class internationalization (i18n).
 
-10. ### [**Squidex**](https://github.com/Squidex/squidex) [![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)
+10. ### [**Squidex**](https://github.com/Squidex/squidex) [![GitHub_Stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers)
     - **Architecture:** Event-Sourced Headless CMS built on .NET Core & C#.
     - **Database Support:** MongoDB.
     - **License:** MIT License.
     - **Key Highlights:** Engineered with an Event Sourcing (CQRS) architecture for auditability and compliance. Supplies automatic versioning, multi-lingual asset pipelines, GraphQL and REST endpoints, scriptable content validation, and enterprise .NET ecosystem integration.
 
-11. ### [**Keystatic**](https://github.com/Thinkmill/keystatic) [![GitHub stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers)
+11. ### [**Keystatic**](https://github.com/Thinkmill/keystatic) [![GitHub_Stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers)
     - **Architecture:** TypeScript-first Content Management Engine for Local & Git-backed workflows.
     - **Storage Backend:** Local file system during dev, GitHub in production (Markdown, MDX, JSON, YAML).
     - **License:** MIT License.
     - **Key Highlights:** Created by Thinkmill for Next.js, Astro, and Remix. Allows developers to write content schemas in pure TypeScript with custom rich-text components, providing live editing locally or saving directly to GitHub branches with PR-based review flows.
 
-12. ### [**Kirby CMS**](https://github.com/getkirby/kirby) [![GitHub stars](https://img.shields.io/github/stars/getkirby/kirby?style=social&color=white)](https://github.com/getkirby/kirby/stargazers)
+12. ### [**Kirby CMS**](https://github.com/getkirby/kirby) [![GitHub_Stars](https://img.shields.io/github/stars/getkirby/kirby?style=social&color=white)](https://github.com/getkirby/kirby/stargazers)
     - **Architecture:** File-Based CMS with Vue.js-powered Panel in PHP.
     - **Storage Backend:** Files and folders on disk (Markdown, TXT, YAML).
     - **License:** Proprietary source-available commercial license (free for local development).
     - **Key Highlights:** Beloved by creative agencies and designers for its minimalist architecture, customizable Vue-based Panel, zero-SQL setup, and headless REST/KQL (Kirby Query Language) API capabilities.
 
-13. ### [**FireCMS**](https://github.com/firecmsco/firecms) [![GitHub stars](https://img.shields.io/github/stars/firecmsco/firecms?style=social&color=white)](https://github.com/firecmsco/firecms/stargazers)
+13. ### [**FireCMS**](https://github.com/firecmsco/firecms) [![GitHub_Stars](https://img.shields.io/github/stars/firecmsco/firecms?style=social&color=white)](https://github.com/firecmsco/firecms/stargazers)
     - **Architecture:** React & TypeScript Admin Panel and Content Manager for Firebase/Firestore.
     - **Database Support:** Google Cloud Firestore / Firebase.
     - **License:** MIT License (Core) / Commercial Pro modules.
     - **Key Highlights:** Instantly builds a spreadsheet-style, editable admin dashboard directly over Firestore collections with real-time syncing, custom React form fields, role security rules, and file upload pipelines.
 
-14. ### [**dotCMS**](https://github.com/dotCMS/core) [![GitHub stars](https://img.shields.io/github/stars/dotCMS/core?style=social&color=white)](https://github.com/dotCMS/core/stargazers)
+14. ### [**dotCMS**](https://github.com/dotCMS/core) [![GitHub_Stars](https://img.shields.io/github/stars/dotCMS/core?style=social&color=white)](https://github.com/dotCMS/core/stargazers)
     - **Architecture:** Enterprise Hybrid/Headless Java Content Management System.
     - **Database Support:** PostgreSQL, MySQL, Oracle, MS SQL Server.
     - **License:** Apache-2.0 License (Core Community Edition).
@@ -154,22 +154,22 @@ Explore the leading self-hosted, database-backed, and Git-backed open-source con
 
 ### Open-Source Comparison Matrix
 
-| 📦 Engine | ⭐ Stars | ⚙️ Language / Framework | 🗄️ Storage / Database | 📄 License | 💡 Best For |
+| 📦 Engine | ⭐ GitHub_Stars | ⚙️ Language / Framework | 🗄️ Storage / Database | 📄 License | 💡 Best For |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Strapi](https://github.com/strapi/strapi)** | [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) | Node.js / TypeScript | PostgreSQL, MySQL, MariaDB, SQLite | MIT | Greenfield headless apps with rich plugin requirements |
-| **[Ghost](https://github.com/TryGhost/Ghost)** | [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) | Node.js / JavaScript | MySQL 8, SQLite | AGPL-3.0 | Blogs, newsletters, membership sites, publishing media |
-| **[Payload](https://github.com/payloadcms/payload)** | [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) | TypeScript / Next.js | PostgreSQL, SQLite, MongoDB | MIT | Next.js full-stack apps desiring type safety & Local API |
-| **[Directus](https://github.com/directus/directus)** | [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) | Node.js / TypeScript | PostgreSQL, MySQL, SQLite, MS SQL | BSL 1.1 | Instant admin UI over existing SQL databases |
-| **[Wagtail](https://github.com/wagtail/wagtail)** | [![GitHub stars](https://img.shields.io/github/stars/wagtail/wagtail?style=social&color=white)](https://github.com/wagtail/wagtail/stargazers) | Python / Django | PostgreSQL, MySQL, SQLite | BSD-3-Clause | Enterprise Django teams & accessibility-focused sites |
-| **[Decap CMS](https://github.com/decaporg/decap-cms)** | [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers) | React / JavaScript | Git (GitHub, GitLab, Bitbucket) | MIT | Static Jamstack blogs needing Git-backed authoring |
-| **[Grav](https://github.com/getgrav/grav)** | [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers) | PHP / Twig | Flat-file Markdown (Disk) | MIT | Zero-database self-hosted sites & lightweight setups |
-| **[TinaCMS](https://github.com/tinacms/tinacms)** | [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers) | React / TypeScript | Git Repo + GraphQL index | Apache-2.0 | Contextual visual editing for Astro, Next.js & Hugo |
-| **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** | [![GitHub stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers) | Svelte / TypeScript | Git (GitHub, GitLab, Gitea) | MIT | Ultra-fast CDN-hosted successor to Netlify CMS |
-| **[Squidex](https://github.com/Squidex/squidex)** | [![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers) | .NET Core / C# | MongoDB | MIT | High-compliance event-sourced enterprise setups |
-| **[Keystatic](https://github.com/Thinkmill/keystatic)** | [![GitHub stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers) | TypeScript / React | Local FS & GitHub Git | MIT | Next.js and Astro sites with TypeScript schemas |
-| **[Kirby](https://github.com/getkirby/kirby)** | [![GitHub stars](https://img.shields.io/github/stars/getkirby/kirby?style=social&color=white)](https://github.com/getkirby/kirby/stargazers) | PHP / Vue.js | Flat-file (Disk) | Commercial | Design studios wanting a polished file-based admin |
-| **[FireCMS](https://github.com/firecmsco/firecms)** | [![GitHub stars](https://img.shields.io/github/stars/firecmsco/firecms?style=social&color=white)](https://github.com/firecmsco/firecms/stargazers) | React / TypeScript | Google Cloud Firestore | MIT / Commercial | Rapid admin panels over Firestore databases |
-| **[dotCMS](https://github.com/dotCMS/core)** | [![GitHub stars](https://img.shields.io/github/stars/dotCMS/core?style=social&color=white)](https://github.com/dotCMS/core/stargazers) | Java | PostgreSQL, MySQL, Oracle | Apache-2.0 | High-volume multi-site enterprise Java ecosystems |
+| **[Strapi](https://github.com/strapi/strapi)** | [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) | Node.js / TypeScript | PostgreSQL, MySQL, MariaDB, SQLite | MIT | Greenfield headless apps with rich plugin requirements |
+| **[Ghost](https://github.com/TryGhost/Ghost)** | [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) | Node.js / JavaScript | MySQL 8, SQLite | AGPL-3.0 | Blogs, newsletters, membership sites, publishing media |
+| **[Payload](https://github.com/payloadcms/payload)** | [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) | TypeScript / Next.js | PostgreSQL, SQLite, MongoDB | MIT | Next.js full-stack apps desiring type safety & Local API |
+| **[Directus](https://github.com/directus/directus)** | [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers) | Node.js / TypeScript | PostgreSQL, MySQL, SQLite, MS SQL | BSL 1.1 | Instant admin UI over existing SQL databases |
+| **[Wagtail](https://github.com/wagtail/wagtail)** | [![GitHub_Stars](https://img.shields.io/github/stars/wagtail/wagtail?style=social&color=white)](https://github.com/wagtail/wagtail/stargazers) | Python / Django | PostgreSQL, MySQL, SQLite | BSD-3-Clause | Enterprise Django teams & accessibility-focused sites |
+| **[Decap CMS](https://github.com/decaporg/decap-cms)** | [![GitHub_Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers) | React / JavaScript | Git (GitHub, GitLab, Bitbucket) | MIT | Static Jamstack blogs needing Git-backed authoring |
+| **[Grav](https://github.com/getgrav/grav)** | [![GitHub_Stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers) | PHP / Twig | Flat-file Markdown (Disk) | MIT | Zero-database self-hosted sites & lightweight setups |
+| **[TinaCMS](https://github.com/tinacms/tinacms)** | [![GitHub_Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers) | React / TypeScript | Git Repo + GraphQL index | Apache-2.0 | Contextual visual editing for Astro, Next.js & Hugo |
+| **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** | [![GitHub_Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers) | Svelte / TypeScript | Git (GitHub, GitLab, Gitea) | MIT | Ultra-fast CDN-hosted successor to Netlify CMS |
+| **[Squidex](https://github.com/Squidex/squidex)** | [![GitHub_Stars](https://img.shields.io/github/stars/Squidex/squidex?style=social&color=white)](https://github.com/Squidex/squidex/stargazers) | .NET Core / C# | MongoDB | MIT | High-compliance event-sourced enterprise setups |
+| **[Keystatic](https://github.com/Thinkmill/keystatic)** | [![GitHub_Stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers) | TypeScript / React | Local FS & GitHub Git | MIT | Next.js and Astro sites with TypeScript schemas |
+| **[Kirby](https://github.com/getkirby/kirby)** | [![GitHub_Stars](https://img.shields.io/github/stars/getkirby/kirby?style=social&color=white)](https://github.com/getkirby/kirby/stargazers) | PHP / Vue.js | Flat-file (Disk) | Commercial | Design studios wanting a polished file-based admin |
+| **[FireCMS](https://github.com/firecmsco/firecms)** | [![GitHub_Stars](https://img.shields.io/github/stars/firecmsco/firecms?style=social&color=white)](https://github.com/firecmsco/firecms/stargazers) | React / TypeScript | Google Cloud Firestore | MIT / Commercial | Rapid admin panels over Firestore databases |
+| **[dotCMS](https://github.com/dotCMS/core)** | [![GitHub_Stars](https://img.shields.io/github/stars/dotCMS/core?style=social&color=white)](https://github.com/dotCMS/core/stargazers) | Java | PostgreSQL, MySQL, Oracle | Apache-2.0 | High-volume multi-site enterprise Java ecosystems |
 
 ---
 
